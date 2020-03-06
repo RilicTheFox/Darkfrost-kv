@@ -4,4 +4,4 @@ My kvantum theme for KDE. Based on [Stardust-kv](https://gitlab.com/skylineone04
 
 ![image-20200306170019951](README.assets/image-20200306170019951.png)
 
-Goes well with the [Nulium](https://www.pling.com/p/1226329) KDE themes!
+Goes well with the [Nilium](https://www.pling.com/p/1226329) KDE themes!
