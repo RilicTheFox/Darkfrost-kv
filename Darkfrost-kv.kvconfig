@@ -1,6 +1,6 @@
 [%General]
 author=Rilic, skylineone044, Davide_sd 
-comment=Based skylineone044's "Stardust-kv"
+comment=Based on skylineone044's "Stardust-kv"
 x11drag=false
 alt_mnemonic=true
 left_tabs=true
@@ -70,10 +70,10 @@ saturation=1.00
 shadowless_popup=false
 
 [GeneralColors]
-dark.color=#0a0a0a14
+dark.color=#2c2c2c14
 tooltip.text.color=#ffffff
 alt.base.color=#ed254e14
-base.color=#0a0a0a01
+base.color=#2c2c2c01
 light.color=#ed254e
 window.text.color=#ffffffc8
 window.color=#0a0a0a
